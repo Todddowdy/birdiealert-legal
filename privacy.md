@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # BirdieAlert Privacy Policy
 
 **Last Updated: May 25, 2026**
