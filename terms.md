@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+---
+
 # BirdieAlert Terms of Service
 
 **Last Updated: May 25, 2026**
