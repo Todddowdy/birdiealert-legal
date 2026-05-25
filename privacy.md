@@ -12,7 +12,7 @@ BirdieAlert is a personal golf coordination tool operated by Todd Dowdy as a sol
 
 ## How We Use Your Information
 
-We use phone numbers solely to send SMS notifications related to golf tee time availability, group invitations, booking confirmations, spot-claim confirmations, cancellations, pre-game reminders, and related logistics for shared rounds of golf at Denver municipal courses.
+We use phone numbers solely to send SMS notifications related to golf tee time availability, group invitations, booking confirmations, spot-claim confirmations, cancellations, pre-game reminders, and related coordination for shared rounds of golf.
 
 ## Information Sharing
 
@@ -32,4 +32,4 @@ You may opt out at any time by replying STOP to any message. To opt back in, rep
 
 ## Contact
 
-For questions about this Privacy Policy or to be removed from messaging, contact Todd Dowdy at dowdy1993@yahoo.com.
+For questions about this Privacy Policy or to be removed from messaging, contact Todd Dowdy at todd.dowdy303@gmail.com.
