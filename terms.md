@@ -6,7 +6,7 @@ These Terms of Service govern your participation in BirdieAlert, a personal golf
 
 ## Service Description
 
-BirdieAlert is a private, invitation-only SMS notification service. It sends messages related to golf tee time availability, group invitations, booking confirmations, spot-claim notifications, cancellations, pre-game reminders, and related logistics for shared rounds of golf at Denver municipal courses. The service is not open to public registration.
+BirdieAlert is a private, invitation-only SMS notification service. It sends messages related to golf tee time availability, group invitations, booking confirmations, spot-claim notifications, cancellations, pre-game reminders, and related coordination for shared rounds of golf. The service is not open to public registration.
 
 ## Eligibility
 
@@ -30,4 +30,4 @@ This service is provided "as is" without warranty of any kind, express or implie
 
 ## Contact
 
-For questions about these Terms, contact Todd Dowdy at dowdy1993@yahoo.com.
+For questions about these Terms, contact Todd Dowdy at todd.dowdy303@gmail.com.
