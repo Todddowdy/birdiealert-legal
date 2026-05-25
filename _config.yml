@@ -1,0 +1,10 @@
+title: BirdieAlert
+description: Personal golf coordination tool
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
